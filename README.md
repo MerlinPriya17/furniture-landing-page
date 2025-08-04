@@ -26,7 +26,7 @@ furnispace-landing-page/
 - Unsplash (for background image)
 
 ---
-
+<img width="1903" height="973" alt="Image" src="https://github.com/user-attachments/assets/7854d2e7-799f-4db7-b894-11c8f317cce6" />
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
