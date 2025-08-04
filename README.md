@@ -64,4 +64,4 @@ Emojis from EmojiCopy
 ## Output
 
 
-![image alt](<img width="1903" height="973" alt="Screenshot 2025-08-04 144128" src="https://github.com/user-attachments/assets/7d5fe3cc-574e-4f0a-ab23-555836c68635" />)
+
