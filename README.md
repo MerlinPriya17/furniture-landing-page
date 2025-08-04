@@ -34,7 +34,7 @@ furnispace-landing-page/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/furnispace-landing-page.git
+git clonehttps://github.com/MerlinPriya17/furniture-landing-page/blob/67479656ef33f2d9c4c5f2987f5b08050cdc6b0b/index.html
 cd furnispace-landing-page
 2. Run the Project
 Open index.html in your browser.
