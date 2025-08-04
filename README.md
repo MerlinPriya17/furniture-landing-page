@@ -26,12 +26,14 @@ furnispace-landing-page/
 - Unsplash (for background image)
 
 ---
-<img width="1903" height="973" alt="Image" src="https://github.com/user-attachments/assets/7854d2e7-799f-4db7-b894-11c8f317cce6" />
+## Output
+<img width="1903" height="924" alt="Screenshot 2025-08-04 145330" src="https://github.com/user-attachments/assets/e2ba5829-0e91-481d-bc7b-b9b3964238c0" />
+
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/your-username/furnispace-landing-page.git
 cd furnispace-landing-page
 2. Run the Project
@@ -60,8 +62,8 @@ This project is open-source and free to use under the MIT License.
 Background Image from Unsplash
 
 Emojis from EmojiCopy
----
-## Output
+
+
 
 
 
