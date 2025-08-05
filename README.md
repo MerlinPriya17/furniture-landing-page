@@ -6,7 +6,7 @@ furnispace-landing-page/
 
 
 
-## 🎯 Features
+## Features
 
 - Fullscreen hero section with background image
 - Navigation bar with logo and links
@@ -17,7 +17,7 @@ furnispace-landing-page/
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - HTML5
 - CSS3
@@ -30,7 +30,7 @@ furnispace-landing-page/
 <img width="1903" height="924" alt="Screenshot 2025-08-04 145330" src="https://github.com/user-attachments/assets/e2ba5829-0e91-481d-bc7b-b9b3964238c0" />
 
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -43,22 +43,22 @@ OR use Live Server in VS Code:
 
 Right-click index.html → Open with Live Server
 
-💡 Customization
+Customization
 Replace the background image URL in .hero with your own image.
 
 Update the text content or add new sections as needed.
 
 Modify colors or fonts to match your brand identity.
 
-📱 Responsive Design
-📱 Mobile-friendly layout
+Responsive Design
+Mobile-friendly layout
 
-🖥️ Adjusts automatically to all screen sizes using Flexbox and media queries
+Adjusts automatically to all screen sizes using Flexbox and media queries
 
-📜 License
+License
 This project is open-source and free to use under the MIT License.
 
-🙌 Acknowledgments
+Acknowledgments
 Background Image from Unsplash
 
 Emojis from EmojiCopy
