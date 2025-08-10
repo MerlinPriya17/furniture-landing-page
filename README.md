@@ -55,9 +55,6 @@ Mobile-friendly layout
 
 Adjusts automatically to all screen sizes using Flexbox and media queries
 
-License
-This project is open-source and free to use under the MIT License.
-
 Acknowledgments
 Background Image from Unsplash
 
